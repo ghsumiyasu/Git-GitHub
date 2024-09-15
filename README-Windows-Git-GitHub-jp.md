@@ -2,5 +2,5 @@
 
 ローカル/リモートプロジェクトのバージョン管理のためのシステム
 
-## [GitHub-Repositorio](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-GitHub-Repositorio-jp.md)
-## [Git-Download](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Windows-Git-Download-jp.md)
+## [GitHub-リポジトリ](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-GitHub-Repositorio-jp.md)
+## [Git-ダウンロード](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Windows-Git-Download-jp.md)
