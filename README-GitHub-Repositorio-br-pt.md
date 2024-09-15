@@ -5,13 +5,13 @@ Criando um repositorio no GitHub.com
 Figura 01 - Buscando o GitHub no Google
 </div>
 
-![](Imagens/GitHub-Repositorio-Fig01.png)
+![](Imagens/GitHub-Repositorio-Img01.png)
 
 <div align="center">
 Figura 02 - Clique em New
 </div>
 
-![](Imagens/GitHub-Repositorio-Fig02.png)
+![](Imagens/GitHub-Repositorio-Img02.png)
 
 <div align="center">
 Figura 03 - Digite o nome do Repositorio

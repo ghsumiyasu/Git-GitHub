@@ -5,13 +5,13 @@ GitHub.com でのリポジトリの作成
 絵 01 - Google で GitHub を検索する
 </div>
 
-![](Imagens/GitHub-Repositorio-Fig01.png)
+![](Imagens/GitHub-Repositorio-Img01.png)
 
 <div align="center">
 絵 02 - 「New」をクリックします
 </div>
 
-![](Imagens/GitHub-Repositorio-Fig02.png)
+![](Imagens/GitHub-Repositorio-Img02.png)
 
 <div align="center">
 絵 03 - リポジトリの名前を入力します
