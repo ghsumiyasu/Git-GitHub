@@ -8,4 +8,4 @@ Vamos manter nosso projeto organizado
 
 ## [Introdução - Git-GitHub](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Git-GitHub-Introducao-br-pt.md)
 
-## [はじめに - Git-GitHub](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Git-GitHub-Introducao-jp.md)
+## [はじめに - Git-GitHub](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Git-GitHub-Introducao-jp.md)
