@@ -1,4 +1,4 @@
-# GitHub リポジトリ
+# ギットハブリポジトリ
 GitHub.com でのリポジトリの作成
 
 <div align="center">

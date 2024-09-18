@@ -1,5 +1,5 @@
-# Git をダウンロード
-Windows での Git のダウンロード
+# ギットをダウンロード
+Windows でのギットのダウンロード
 
 <div align="center">
 絵 01 - Google で Git を検索する

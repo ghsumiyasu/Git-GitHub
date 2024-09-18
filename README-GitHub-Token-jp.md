@@ -1,4 +1,4 @@
-# GitHub Token
+# ギットハブ Token
 マックオーエスリモコンが必要です
 
 <div align="center">

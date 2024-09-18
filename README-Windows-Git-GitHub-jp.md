@@ -1,6 +1,6 @@
-# Git-GitHub の構成
+# ギット-ギットハブの構成
 
-ローカル/リモートプロジェクトのバージョン管理のためのシステム
+ローカル/リモートマイクロソフト ウィンドウズプロジェクトのバージョン管理のためのシステム
 
 ## [GitHub-リポジトリ](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-GitHub-Repositorio-jp.md)
 ## [Git-ダウンロード](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Windows-Git-Download-jp.md)
