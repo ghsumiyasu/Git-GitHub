@@ -2,4 +2,5 @@
 
 プロジェクトリポジトリの作成
 
-## [Windows](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Windows-Git-GitHub-jp.md)
+## [マイクロソフト ウィンドウズ](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Windows-Git-GitHub-jp.md)
+## [マックオーエス](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-macOS-Git-GitHub-jp.md)

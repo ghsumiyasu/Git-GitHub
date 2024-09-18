@@ -1,5 +1,5 @@
 # Repositorio Git
-Criando um repositorio local Git
+Criando um repositorio local Git o Windows
 
 <div align="center">
 Figura 01 - 1-Clique botão direito 2-Botão esquerdo 3-Botão esquerdo
