@@ -14,7 +14,7 @@
 ![](Imagens/Windows-Git-Repositorio-Img02.png)
 
 <div align="center">
-絵 03 - Git Bash を開く
+絵 03 - ギットバッシュを開く
 </div>
 
 ![](Imagens/Windows-Git-Repositorio-Img03.png)

@@ -1,8 +1,8 @@
 # ギットをダウンロード
-Windows でのギットのダウンロード
+マイクロソフトでのギットのダウンロード
 
 <div align="center">
-絵 01 - Google で Git を検索する
+絵 01 - グーグルでギットを検索する
 </div>
 
 ![](Imagens/Windows-Git-Download-Img01.png)
@@ -14,7 +14,7 @@ Windows でのギットのダウンロード
 ![](Imagens/Windows-Git-Download-Img02.png)
 
 <div align="center">
-絵 03 - 「Windows 用のダウンロード」をクリックします
+絵 03 - 「マイクロソフトウィンドウズ用のダウンロード」をクリックします
 </div>
 
 ![](Imagens/Windows-Git-Download-Img03.png)
@@ -24,5 +24,3 @@ Windows でのギットのダウンロード
 </div>
 
 ![](Imagens/Windows-Git-Download-Img04.png)
-
-

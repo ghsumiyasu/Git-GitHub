@@ -1,8 +1,8 @@
 # ギットハブリポジトリ
-GitHub.com でのリポジトリの作成
+ギットハブでのリポジトリの作成
 
 <div align="center">
-絵 01 - Google で GitHub を検索する
+絵 01 - グーグルでギットハブを検索する
 </div>
 
 ![](Imagens/GitHub-Repositorio-Img01.png)
@@ -27,7 +27,7 @@ GitHub.com でのリポジトリの作成
 
 
 <div align="center">
-絵 05 - Git 上のリポジトリにアクセスする
+絵 05 - ギット上のリポジトリにアクセスする
 </div>
 
 ![](Imagens/GitHub-Repositorio-Img05.png)

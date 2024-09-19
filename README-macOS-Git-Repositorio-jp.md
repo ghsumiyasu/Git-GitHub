@@ -101,7 +101,7 @@
 
 
 <div align="center">
-絵 17 - ギット-ギットハブアカウントにコピーしたTokenを入力します
+絵 17 - ギット-ギットハブアカウントにコピーしたトークンを入力します
 </div>
 
 ![](Imagens/macOS-Git-Repositorio-Img17.png)

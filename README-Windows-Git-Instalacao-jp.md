@@ -1,5 +1,5 @@
 # ギットのインストール
-Windows へのローカル バージョン管理システムのインストール
+マイクロソフト ウィンドウズへのローカル バージョン管理システムのインストール
 
 <div align="center">
 絵 01 - インストーラーをダブルクリックします
@@ -32,7 +32,7 @@ Windows へのローカル バージョン管理システムのインストー�
 ![](Imagens/Windows-Git-Instalacao-Img05.png)
 
 <div align="center">
-絵 06 - Visual Studio Code を推奨し、「次へ」をクリックします
+絵 06 - Visual Studio Code を推奨し「次へ」をクリックします
 </div>
 
 ![](Imagens/Windows-Git-Instalacao-Img06.png)

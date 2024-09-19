@@ -27,25 +27,25 @@
 
 
 <div align="center">
-絵 05 - 「パーソナルアクセ Token」をクリックします
+絵 05 - 「パーソナルアクセトークン」をクリックします
 </div>
 
 ![](Imagens/macOS-GitHub-Token-Img05.png)
 
 <div align="center">
-絵 06 - 「Tokens」(クラシック)をクリックします 
+絵 06 - 「トークン」(クラシック)をクリックします 
 </div>
 
 ![](Imagens/macOS-GitHub-Token-Img06.png)
 
 <div align="center">
-絵 07 - 「新しいTokenの生成」をクリックします
+絵 07 - 「新しいトークンの生成」をクリックします
 </div>
 
 ![](Imagens/macOS-GitHub-Token-Img07.png)
 
 <div align="center">
-絵 08 - 「新しいTokenの生成」(クラシック)をクリックします
+絵 08 - 「新しいトークンの生成」(クラシック)をクリックします
 </div>
 
 ![](Imagens/macOS-GitHub-Token-Img08.png)
@@ -57,14 +57,14 @@
 ![](Imagens/macOS-GitHub-Token-Img09.png)
 
 <div align="center">
-絵 10 - 「Tokenの生成」をクリックします
+絵 10 - 「トークンの生成」をクリックします
 </div>
 
 ![](Imagens/macOS-GitHub-Token-Img10.png)
 
 
 <div align="center">
-絵 11 - Tokenをコピーする
+絵 11 - トークンをコピーする
 </div>
 
 ![](Imagens/macOS-GitHub-Token-Img11.png)
