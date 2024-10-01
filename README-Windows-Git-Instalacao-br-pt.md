@@ -2,13 +2,13 @@
 Instalacao do Sistema de versionamento local no Windows
 
 <div align="center">
-Figura 01 - Duplo clique no instalador
+Figura 01 - Clique com o botão direito
 </div>
 
 ![](Imagens/Windows-Git-Instalacao-Img01.png)
 
 <div align="center">
-Figura 02 - Clique next
+Figura 02 - Clique em Run as Administrator
 </div>
 
 ![](Imagens/Windows-Git-Instalacao-Img02.png)
@@ -32,13 +32,13 @@ Figura 05 - Clique next
 ![](Imagens/Windows-Git-Instalacao-Img05.png)
 
 <div align="center">
-Figura 06 - Recomendo o Visual Studio Code e Clique next
+Figura 06 - Clique next
 </div>
 
 ![](Imagens/Windows-Git-Instalacao-Img06.png)
 
 <div align="center">
-Figura 07 - Clique next
+Figura 07 - Recomendo o Visual Studio Code e Clique next
 </div>
 
 ![](Imagens/Windows-Git-Instalacao-Img07.png)
@@ -98,13 +98,19 @@ Figura 16 - Clique next
 ![](Imagens/Windows-Git-Instalacao-Img16.png)
 
 <div align="center">
-Figura 17 - Aguarde...
+Figura 17 - Clique next
 </div>
 
 ![](Imagens/Windows-Git-Instalacao-Img17.png)
 
 <div align="center">
-Figura 18 - Clique Finish
+Figura 18 - Aguarde...
 </div>
 
 ![](Imagens/Windows-Git-Instalacao-Img18.png)
+
+<div align="center">
+Figura 19 - Clique Finish
+</div>
+
+![](Imagens/Windows-Git-Instalacao-Img19.png)

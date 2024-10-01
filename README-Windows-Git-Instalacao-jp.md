@@ -2,13 +2,13 @@
 マイクロソフト ウィンドウズへのローカル バージョン管理システムのインストール
 
 <div align="center">
-絵 01 - インストーラーをダブルクリックします
+絵 01 - 右クリックします
 </div>
 
 ![](Imagens/Windows-Git-Instalacao-Img01.png)
 
 <div align="center">
-絵 02 - 「次へ」をクリックします
+絵 02 - 「Run as Administrator」をクリックします
 </div>
 
 ![](Imagens/Windows-Git-Instalacao-Img02.png)
@@ -32,13 +32,13 @@
 ![](Imagens/Windows-Git-Instalacao-Img05.png)
 
 <div align="center">
-絵 06 - Visual Studio Code を推奨し「次へ」をクリックします
+絵 06 - 「次へ」をクリックします
 </div>
 
 ![](Imagens/Windows-Git-Instalacao-Img06.png)
 
 <div align="center">
-絵 07 - 「次へ」をクリックします
+絵 07 - Visual Studio Code を推奨し「次へ」をクリックします
 </div>
 
 ![](Imagens/Windows-Git-Instalacao-Img07.png)
@@ -98,13 +98,19 @@
 ![](Imagens/Windows-Git-Instalacao-Img16.png)
 
 <div align="center">
-絵 17 - 待って...
+絵 17 - 「次へ」をクリックします
 </div>
 
 ![](Imagens/Windows-Git-Instalacao-Img17.png)
 
 <div align="center">
-絵 18 - 「完了」をクリックします
+絵 18 - 待って...
 </div>
 
 ![](Imagens/Windows-Git-Instalacao-Img18.png)
+
+<div align="center">
+絵 19 - 「完了」をクリックします
+</div>
+
+![](Imagens/Windows-Git-Instalacao-Img19.png)
