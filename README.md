@@ -2,10 +2,10 @@
 
 Vamos manter nosso projeto organizado
 
-# Git-GitHub バージョニング システム
+# ギットハブバージョニング システム
 
 プロジェクトを整理しましょう
 
-## [Introdução - Git-GitHub](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Git-GitHub-Introducao-br-pt.md)
+## [Introdução](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Git-GitHub-Introducao-br-pt.md)
 
-## [はじめに - Git-GitHub](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Git-GitHub-Introducao-jp.md)
+## [はじめに](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Git-GitHub-Introducao-jp.md)
