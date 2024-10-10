@@ -98,7 +98,7 @@ Figura 16 - Clique next
 ![](Imagens/Windows-Git-Instalacao-Img16.png)
 
 <div align="center">
-Figura 17 - Clique next
+Figura 17 - Clique Install
 </div>
 
 ![](Imagens/Windows-Git-Instalacao-Img17.png)

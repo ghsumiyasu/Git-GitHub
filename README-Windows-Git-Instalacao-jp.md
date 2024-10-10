@@ -98,7 +98,7 @@
 ![](Imagens/Windows-Git-Instalacao-Img16.png)
 
 <div align="center">
-絵 17 - 「次へ」をクリックします
+絵 17 - 「インストール」をクリックします
 </div>
 
 ![](Imagens/Windows-Git-Instalacao-Img17.png)
