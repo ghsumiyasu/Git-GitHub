@@ -7,3 +7,4 @@
 ## [ブランチ](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Branch-jp.md)
 ## [リモート](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Remote-jp.md)
 ## [コンフィグ](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Config-jp.md)
+## [ログ](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Log-br-pt.md)
