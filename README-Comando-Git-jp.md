@@ -6,3 +6,4 @@
 ## [プッシュ](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Push-jp.md)
 ## [ブランチ](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Branch-jp.md)
 ## [リモート](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Remote-jp.md)
+## [コンフィグ](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Config-jp.md)
