@@ -1,4 +1,4 @@
 # コンフィグ
 
-## git config -list
+## git config --list
 - すべてのギット設定をリストする

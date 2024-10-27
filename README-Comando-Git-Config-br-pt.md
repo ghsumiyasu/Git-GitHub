@@ -1,4 +1,4 @@
 # Config
 
-## git config -list
+## git config --list
 - Lista todas as configurações do Git
