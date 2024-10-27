@@ -8,4 +8,5 @@
 ## [Remote](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Remote-br-pt.md)
 ## [Config](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Config-br-pt.md)
 ## [Log](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Log-br-pt.md)
+## [Checkout](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Checkout-br-pt.md)
 

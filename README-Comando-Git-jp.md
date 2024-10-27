@@ -8,3 +8,4 @@
 ## [リモート](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Remote-jp.md)
 ## [コンフィグ](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Config-jp.md)
 ## [ログ](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Log-jp.md)
+## [チェックアウト](https://github.com/ghsumiyasu/Git-GitHub/blob/main/README-Comando-Git-Checkout-jp.md)
