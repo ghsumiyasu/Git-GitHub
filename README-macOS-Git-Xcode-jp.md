@@ -1,125 +1,125 @@
-# Xcode Git
-Criando um repositorio local Git no Xcode
+# ギットとエックスコード
+エックスコードでギットを使用する
 
 <div align="center">
-Figura 01
+絵 01
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img01.png)
 
 <div align="center">
-Figura 02 - Digite e clique Xcode
+絵 02 - 「エックスコード」と入力してクリックします
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img02.png)
 
 <div align="center">
-Figura 03 - Clique botão esquerdo em Xcode
+絵 03 - エックスコードで左クリック
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img03.png)
 
 <div align="center">
-Figura 04 - Clique Configuração
+絵 04 - 「構成」をクリックします
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img04.png)
 
 
 <div align="center">
-Figura 05 - Clique contas e no sinal (+) para adicionar a conta GitHub
+絵 05 - アカウントと(+)記号をクリックしてギットハブアカウントを追加します
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img05.png)
 
 <div align="center">
-Figura 06 - Clique GitHub e Continue
+絵 06 - 「ギットハブ」をクリックして続行します
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img06.png)
 
 <div align="center">
-Figura 07 - Digite GitHub
+絵 07 - ギットハブに入る
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img07.png)
 
 <div align="center">
-Figura 08 - Clique em crie um Token no site GitHub
+絵 08 - ギットハブサイトで「トークンの作成」をクリックします。
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img08.png)
 
 <div align="center">
-Figura 09 - Verifique o aplicativo Github no smartphone
+絵 09 - スマホでギットハブアプリを確認する
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img09.png)
 
 <div align="center">
-Figura 10 - Confirme o numero no smartphone
+絵 10 - スマホで番号を確認する
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img10.png)
 
 
 <div align="center">
-Figura 11 - Digite a descrição do token
+絵 11 - トークンの説明を入力してください
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img11.png)
 
 <div align="center">
-Figura 12 - Clique em Gerar o token
+絵 12 - 「トークンの生成」をクリックします
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img12.png)
 
 <div align="center">
-Figura 13 - Copie o token
+絵 13 - トークンをコピーする
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img13.png)
 
 <div align="center">
-Figura 14 - Saia do browser
+絵 14 - ブラウザを終了します
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img14.png)
 
 <div align="center">
-Figura 15 - Cole o token
+絵 15 - トークンを貼り付けます
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img15.png)
 
 <div align="center">
-Figura 16 - Clique Colar
+絵 16 - 「貼り付け」をクリックします
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img16.png)
 
 
 <div align="center">
-Figura 17 - Clique Sign in
+絵 17 - 「サインイン」をクリックします
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img17.png)
 
 <div align="center">
-Figura 18 - Clique em Source Control
+絵 18 - 「ソース管理」をクリックします
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img18.png)
 
 <div align="center">
-Figura 19 - Clique Git
+絵 19 - 「ギット」をクリックします
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img19.png)
 
 <div align="center">
-Figura 20 - Digite seu id e email GitHub e volte para o projeto
+絵 20 - ギットハブアイディーとメールアドレスを入力してプロジェクトに戻ります
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img20.png)
