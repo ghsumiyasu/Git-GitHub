@@ -55,3 +55,9 @@ Figura 09 - プロジェクト名を入力し「作成」をクリックしま�
 </div>
 
 ![](Imagens/macOS-Xcode-Projeto-Img09.png)
+
+<div align="center">
+Figura 10 - ギットハブのリポジトリ
+</div>
+
+![](Imagens/macOS-Xcode-Projeto-Img10.png)
