@@ -123,3 +123,9 @@ Figura 20 - Digite seu id e email GitHub e volte para o projeto
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img20.png)
+
+<div align="center">
+Figura 21 - Feche Settings e OK
+</div>
+
+![](Imagens/macOS-Git-Xcode-Img21.png)

@@ -123,3 +123,9 @@
 </div>
 
 ![](Imagens/macOS-Git-Xcode-Img20.png)
+
+<div align="center">
+絵 21 - 「X」をクリックします
+</div>
+
+![](Imagens/macOS-Git-Xcode-Img21.png)
