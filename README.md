@@ -1,6 +1,6 @@
 # Sistema de versionamento Git-GitHub
 
-Vamos manter nosso projeto organizado
+Vamos manter nosso projeto organizado !
 
 # ギットハブバージョニング システム
 
